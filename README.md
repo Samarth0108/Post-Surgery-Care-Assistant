@@ -5,7 +5,7 @@
 The **Post-Operative Care Assistant** is an intelligent healthcare support system that helps patients and clinicians obtain **safe, relevant, and context-aware recommendations** after surgery.  
 It uses a **Retrieval-Augmented Generation (RAG)** pipeline powered by **FAISS**, **text embeddings**, and **large language models (LLMs)** to provide accurate postoperative guidance and safety evaluations.
  
----
+--- 
 
 ## 🚀 Features
 
